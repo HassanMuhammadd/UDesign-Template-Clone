@@ -1,15 +1,4 @@
-/*
-let landingPage = document.querySelector(".landing");
-let imgArray = ["bg1.jpg", "bg2.jpg", "bg3.jpg"];
 
-
-setInterval(function() {
-    let randomNum = Math.ceil(Math.random() * 3);
-    landingPage.style.backgroundImage = `url("media/bg${randomNum}.jpg")`;
-    console.log(randomNum);
-
-}, 2000);
-*/
 
 /*Nav Bar active*/
 let navA = document.querySelectorAll(".links a");
